@@ -1,0 +1,33 @@
+body{
+  border: 60px solid #2EC4B6;
+  border-top: 0px;
+  background-color: #011627;
+  margin: 0px;
+  text-align: center;
+  color:white;
+}
+h1{
+  font-size:60px;
+}
+h3{
+  font-size: 40px;
+}
+
+p{
+  text-align: center;
+  margin: 70px 250px;
+  font-size: 25px;
+}
+label{
+  font-size: 20px;
+}
+input{
+  width:300px;
+  margin-bottom: 7px;
+}
+#signup{
+  width:150px;
+  height: 80px;
+  border-radius: 20px;
+  background-color: orange;
+}
